@@ -1,0 +1,19 @@
+{
+    "languages": {
+        "pt-br": {
+            "logo": "images/pt-br.jpgeg",
+            "name": "Português"
+        }
+    },
+    "main": [
+        "personal"
+    ],
+    "sections": {
+        "professional": [
+            "certifications",
+            "courses",
+            "professional",
+            "study"
+        ]
+    }
+}
