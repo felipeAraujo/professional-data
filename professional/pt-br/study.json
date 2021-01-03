@@ -1,0 +1,12 @@
+{
+    "high-school": {
+        "name": "Colégio Militar do Rio de Janeiro",
+        "start-year": "2002",
+        "end-year": "2006"
+    },
+    "college": {
+        "name": "UFRJ - Universidade Federal do Rio de Janeiro",
+        "course": "Bacharelado em Ciência da Computação",
+        "end-year": "2014"
+    }
+}

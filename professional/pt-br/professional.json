@@ -1,0 +1,82 @@
+{
+    "0": {
+        "company": "Vitesoft Informática e Marketin S.A.",
+        "description": "Vitesoft Informatica e Marketing S.A (Vitesoft Marketing and TI Business Corporation), é uma startup focada em desenvolver sistema para lan-houses e cybercafe",
+        "website": "http://www.vscyber.com.br/",
+        "role": "Estagiário Programador C#",
+        "start-date": "2011-03",
+        "end-date": "2011-07",
+        "tasks": [
+            "Responsável por programar no software da empresa. Consertando os bugs e defeitos encontrados"
+        ],
+        "achievments": []
+    },
+    "1": {
+        "company": "Vitesoft Informática e Marketin S.A.",
+        "description": "Vitesoft Informatica e Marketing S.A (Vitesoft Marketing and TI Business Corporation), é uma startup focada em desenvolver sistema para lan-houses e cybercafe",
+        "website": "http://www.vscyber.com.br/",
+        "role": "Programador C#",
+        "start-date": "2011-07",
+        "end-date": "2011-12",
+        "tasks": [
+            "Programava em C# e fazia consultas a um banco de dados firebird de vez em quando, corrigia bugs no sistema da empresa"
+        ],
+        "achievments": []
+    },
+    "2": {
+        "company": "bLive TI",
+        "description": "bLive TI é uma startup focada em soluções de logística utilizando tecnologia de radiofrequência (RFID)",
+        "website": "https://www.blive.rio/",
+        "role": "Programador PHP",
+        "start-date": "2014-05",
+        "end-date": "2016-02",
+        "tasks": [
+            "Programar em PHP e conversar com clientes internos e externos para atender requisitos da empresa."
+        ],
+        "achievments": [
+            "Fiz Testes de unidade de de aceitação serem partes do processo de desenvolvimento, aumentando a confiança, e por consequência o processo de desenvolvimento se tornou mais fluido.",
+            "Influenciei os sócios a fazerem o processo da empresa ser mais focada em processo ágil",
+            "Criei diversos algoritmos que melhoraram a confiança do processamento interno da software da empresa",
+            "Criação da primeira versão do Dashboard para monitoramento de equipamentos da empresa"
+        ]
+    },
+    "3": {
+        "company": "Nasajon Sistemas",
+        "description": "Nasajon Sistemas, é uma empresa brasileira que desenvolve sistemas ERP especializados no mercado brasileiro",
+        "website": "https://nasajon.com.br/",
+        "role": "Programador Delphi",
+        "start-date": "2016-03",
+        "end-date": "2017-09",
+        "tasks": [
+            "Programar no software chamado Controller e posteriormente no chamado Estoque. Controller: Versão legada responsável por gerenciar controle de notas fiscais de serviço e controle do estoque da empresa, Estoque: a versão moderna focada no controle de estoque da empresa",
+            "Programar em Delphi 4.0",
+            "Programar em Delphi Tokyo",
+            "Criar orçamentos para desenvolver novas funcionalidades no sistema para clientes interessados",
+            "Sempre manter contato com o time do suporte para entregar as funcionalidades da melhor maneira para os clientes",
+            "Apresentação de Soluções aos gerentes que poderiam melhorar a confiabilidade do sistema"
+        ],
+        "achievments": []
+    },
+    "4": {
+        "company": "MeuPatrocínio",
+        "description": "MeuPatrocínio é uma rede social brasileiro focada em relacionamento sugars. A primeira e a maior do país focada nesse segmento",
+        "website": "https://beta.meupatrocinio.com/",
+        "role": "Desenvolvedor",
+        "start-date": "2017-09",
+        "end-date": "PRESENT",
+        "tasks": [
+            "Programar em PHP (Laravel) dando manutenção no sistema e criando novas funcionalidade de acordo com o planejado pela gerência e stakeholders",
+            "Programar em Angular para dar manutenção na parte frontend do site",
+            "Programar em Nativescript para dar manutenção no app do site",
+            "Quando necessário criar API's do zero para se comunicar com o ecossistema da empresa.",
+            "Liderar um squad passando relatório diário sobre o andamento das tarefas da equipe"
+        ],
+        "achievments": [
+            "Ser chamado para ser líder de squad",
+            "Refatoração do código de pagamento fazendo ele ser mais propenso a receber mais de um gateway de pagamento sem mudanças muito bruscas",
+            "Criar uma API que salva grandes informações de dados sem alterar a permormance do sistema principal",
+            "Criar uma API que gerencia os cookies em nosso sistema",
+            "Dar suporte na criação (Não foi criada por mim) na criação da API de referral (Sistema de benefícios por indicação)."
+        ]
+    }
+}

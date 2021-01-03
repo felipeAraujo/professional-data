@@ -1,0 +1,30 @@
+{
+    "name": "Felipe Araújo Teixeira",
+    "role": "Desenvolvedor de Software",
+    "Country": "Brasil",
+    "State": "Rio de Janeiro",
+    "City": "Rio de Janeiro",
+    "websites": {
+        "personal": "https://felipearaujo.github.io/",
+        "linkedin": "https://www.linkedin.com/in/felipeat/",
+        "github": "https://github.com/felipeAraujo",
+        "bitbucket": "https://bitbucket.org/FelipeAraujoT/",
+        "gitlab": "https://gitlab.com/felipeAraujo/"
+    },
+    "skills": [
+        "Git",
+        "PHP",
+        "SQL",
+        "SCRUM",
+        "Backend Developer",
+        "React",
+        "Angular",
+        "HTML",
+        "CSS",
+        "Typescript"
+    ],
+    "languages": [
+        "Português - Nativo",
+        "Inglês - Intermediário"
+    ]
+}
