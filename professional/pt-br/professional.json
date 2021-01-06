@@ -1,5 +1,5 @@
-{
-    "0": {
+[
+    {
         "company": "Vitesoft Informática e Marketin S.A.",
         "description": "Vitesoft Informatica e Marketing S.A (Vitesoft Marketing and TI Business Corporation), é uma startup focada em desenvolver sistema para lan-houses e cybercafe",
         "website": "http://www.vscyber.com.br/",
@@ -11,7 +11,7 @@
         ],
         "achievments": []
     },
-    "1": {
+    {
         "company": "Vitesoft Informática e Marketin S.A.",
         "description": "Vitesoft Informatica e Marketing S.A (Vitesoft Marketing and TI Business Corporation), é uma startup focada em desenvolver sistema para lan-houses e cybercafe",
         "website": "http://www.vscyber.com.br/",
@@ -23,7 +23,7 @@
         ],
         "achievments": []
     },
-    "2": {
+    {
         "company": "bLive TI",
         "description": "bLive TI é uma startup focada em soluções de logística utilizando tecnologia de radiofrequência (RFID)",
         "website": "https://www.blive.rio/",
@@ -40,7 +40,7 @@
             "Criação da primeira versão do Dashboard para monitoramento de equipamentos da empresa"
         ]
     },
-    "3": {
+    {
         "company": "Nasajon Sistemas",
         "description": "Nasajon Sistemas, é uma empresa brasileira que desenvolve sistemas ERP especializados no mercado brasileiro",
         "website": "https://nasajon.com.br/",
@@ -57,7 +57,7 @@
         ],
         "achievments": []
     },
-    "4": {
+    {
         "company": "MeuPatrocínio",
         "description": "MeuPatrocínio é uma rede social brasileiro focada em relacionamento sugars. A primeira e a maior do país focada nesse segmento",
         "website": "https://beta.meupatrocinio.com/",
@@ -79,4 +79,4 @@
             "Dar suporte na criação (Não foi criada por mim) na criação da API de referral (Sistema de benefícios por indicação)."
         ]
     }
-}
+]

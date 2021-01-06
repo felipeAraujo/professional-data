@@ -1,23 +1,23 @@
-{
-    "0": {
+[
+    {
         "name": "Getting and Cleaning Data",
         "institution": "Coursera",
         "institution-website": "https://www.coursera.org/",
         "certification": "https://www.coursera.org/account/accomplishments/verify/97A22VK9JFN4",
         "concluded": "2018-01"
     },
-    "1": {
+    {
         "name": "R Programming",
         "institution": "Coursera",
         "institution-website": "https://www.coursera.org/",
         "certification": "https://www.coursera.org/account/accomplishments/verify/93S2KULUSA77",
         "concluded": "2018-03"
     },
-    "2": {
+    {
         "name": "The Data Scientist's Toolbox",
         "institution": "Coursera",
         "institution-website": "https://www.coursera.org/",
         "certification": "https://www.coursera.org/account/accomplishments/verify/97A22VK9JFN4",
         "concluded": "2018-12"
     }
-}
+]
