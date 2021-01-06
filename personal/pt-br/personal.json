@@ -1,9 +1,9 @@
 {
     "name": "Felipe Araújo Teixeira",
     "role": "Desenvolvedor de Software",
-    "Country": "Brasil",
-    "State": "Rio de Janeiro",
-    "City": "Rio de Janeiro",
+    "country": "Brasil",
+    "state": "Rio de Janeiro",
+    "city": "Rio de Janeiro",
     "websites": {
         "personal": "https://felipearaujo.github.io/",
         "linkedin": "https://www.linkedin.com/in/felipeat/",
