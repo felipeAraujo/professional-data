@@ -1,12 +1,12 @@
 [
     {
         "name": "Brasas English Course",
-        "start-year": "2008-06",
-        "end-year": "2010-12"
+        "start-date": "2008-06",
+        "end-date": "2010-12"
     },
     {
         "name": "Wiseup English Course",
-        "start-year": "2020-06",
-        "end-year": "PRESENT"
+        "start-date": "2020-06",
+        "end-date": "PRESENT"
     }
 ]

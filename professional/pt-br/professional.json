@@ -65,7 +65,7 @@
         "start-date": "2017-09",
         "end-date": "PRESENT",
         "tasks": [
-            "Programar em PHP (Laravel) dando manutenção no sistema e criando novas funcionalidade de acordo com o planejado pela gerência e stakeholders",
+            "Programar em PHP (Laravel) dando manutenção no sistema e criando novas funcionalidades de acordo com o planejado pela gerência e stakeholders",
             "Programar em Angular para dar manutenção na parte frontend do site",
             "Programar em Nativescript para dar manutenção no app do site",
             "Quando necessário criar API's do zero para se comunicar com o ecossistema da empresa.",
@@ -73,10 +73,10 @@
         ],
         "achievments": [
             "Ser chamado para ser líder de squad",
-            "Refatoração do código de pagamento fazendo ele ser mais propenso a receber mais de um gateway de pagamento sem mudanças muito bruscas",
+            "Refatoração do código de pagamento fazendo ele ser mais propenso a receber mais de um gateway de pagamento",
             "Criar uma API que salva grandes informações de dados sem alterar a permormance do sistema principal",
             "Criar uma API que gerencia os cookies em nosso sistema",
-            "Dar suporte na criação (Não foi criada por mim) na criação da API de referral (Sistema de benefícios por indicação)."
+            "Dar suporte na criação da API de referral (Sistema de benefícios por indicação). (Não foi criada por mim)"
         ]
     }
 ]
