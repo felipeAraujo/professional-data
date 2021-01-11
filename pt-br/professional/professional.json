@@ -66,10 +66,9 @@
         "end-date": "PRESENT",
         "tasks": [
             "Programar em PHP (Laravel) dando manutenção no sistema e criando novas funcionalidades de acordo com o planejado pela gerência e stakeholders",
-            "Programar em Angular para dar manutenção na parte frontend do site",
-            "Programar em Nativescript para dar manutenção no app do site",
-            "Quando necessário criar API's do zero para se comunicar com o ecossistema da empresa.",
-            "Liderar um squad passando relatório diário sobre o andamento das tarefas da equipe"
+            "Programar em Typescrit no framework Angular para dar manutenção na parte frontend do site.",
+            "Programar em Typescrit no framework Nativescript para dar manutenção no app do site",
+            "Quando necessário criar API's do zero para se comunicar com o ecossistema da empresa."
         ],
         "achievments": [
             "Ser chamado para ser líder de squad",
