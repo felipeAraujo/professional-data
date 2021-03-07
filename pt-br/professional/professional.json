@@ -71,8 +71,8 @@
             "Quando necessário criar API's do zero para se comunicar com o ecossistema da empresa."
         ],
         "achievments": [
-            "Ser chamado para ser líder de squad",
-            "Refatoração do código de pagamento fazendo ele ser mais propenso a receber mais de um gateway de pagamento",
+            "Ter sido líder de squad",
+            "Refatoração do código de pagamento fazendo ele ser mais propenso a receber mais de um gateway",
             "Criar uma API que salva grandes informações de dados sem alterar a permormance do sistema principal",
             "Criar uma API que gerencia os cookies em nosso sistema",
             "Dar suporte na criação da API de referral (Sistema de benefícios por indicação). (Não foi criada por mim)"
