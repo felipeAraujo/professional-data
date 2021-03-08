@@ -1,0 +1,32 @@
+{
+    "name": "Felipe Araújo Teixeira",
+    "role": "Software Developer",
+    "country": "Brazil",
+    "state": "Rio de Janeiro",
+    "city": "Rio de Janeiro",
+    "img": "https://raw.githubusercontent.com/felipeAraujo/professional-data/main/images/felipe.png",
+    "description": "Computer Science Bachelor Degree completed in 2014. Working since 2014 as a software developer. I started my career developing on PHP for 2 years. Since September 2018 I work on Windsor Solutions on PHP using Laravel Framework. I am enthusiastic about learning new languages, algorithms, and good practices.",
+    "websites": {
+        "personal": "https://felipearaujo.github.io/",
+        "linkedin": "https://www.linkedin.com/in/felipeat/",
+        "github": "https://github.com/felipeAraujo",
+        "bitbucket": "https://bitbucket.org/FelipeAraujoT/",
+        "gitlab": "https://gitlab.com/felipeAraujo/"
+    },
+    "skills": [
+        "Backend Developer",
+        "PHP",
+        "Git",
+        "SQL",
+        "SCRUM",
+        "Typescript",
+        "Angular",
+        "React",
+        "HTML",
+        "CSS"
+    ],
+    "languages": [
+        "Portuguese - Native",
+        "English - Advanced"
+    ]
+}
